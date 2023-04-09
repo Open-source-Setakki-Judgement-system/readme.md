@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
+Lotura는 대마고의 세탁기 / 건조기 정보를 스마트폰으로 간편하게 볼 수 있고, 알림 신청을 하면 FCM을 통한 푸시 알림이 오는 서비스입니다.
 
-**Here are some ideas to get you started:**
+기기가 돌아가는 중에는 빨간색, 멈춰있는 경우에는 초록색으로 표시됩니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+세탁기는 세탁기 아이콘, 건조기는 건조기 아이콘으로 표시됩니다.
+
+문의사항은 오른쪽 위 설정 버튼을 클릭한 후, 문의하기 버튼을 누르면 자동으로 카카오톡 오픈채팅방으로 이동합니다.
+
